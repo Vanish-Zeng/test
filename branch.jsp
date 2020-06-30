@@ -1,1 +1,1 @@
-hello AND hi
+hello and hi
